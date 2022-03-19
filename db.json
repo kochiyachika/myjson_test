@@ -11,6 +11,10 @@
     {
       "id": 3,
       "title": "Post 3"
+    },
+        {
+      "id": 4,
+      "title": "Yabai wa yo!!"
     }
   ],
   "comments": [
@@ -23,9 +27,14 @@
       "id": 2,
       "body": "some comment",
       "postId": 1
+    },    
+    {
+      "id": 2,
+      "body": "Yabai desu ne!",
+      "postId": 2
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "test_hugo"
   }
 }
