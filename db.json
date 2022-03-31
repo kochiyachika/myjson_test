@@ -11,8 +11,7 @@
   "landmarksList": [
     {
       "result": {
-      "success": true,
-      "message": "Successful"
+        "message": "Successful"
       },
       "landmarks": [
         {
