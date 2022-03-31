@@ -1,40 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    },
-        {
-      "id": 4,
-      "title": "Yabai wa yo!!"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    },    
-    {
-      "id": 2,
-      "body": "Yabai desu ne!",
-      "postId": 2
-    }
-  ],
-  "profile": {
-    "name": "test_hugo"
-  }
+      "uuid": "11212.276",
+      "userid": "5bc475664fca543da47a154b",
+      "reason": "Search problem" ,
+      "description": "Find in Build A Floor B",			// Optional
+      "lastupdatetime": "2018-12-21T13:32:06.828+08:00"
 }
