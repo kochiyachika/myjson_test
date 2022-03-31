@@ -1,7 +1,31 @@
 {
-      "uuid": "11212.276",
-      "userid": "5bc475664fca543da47a154b",
-      "reason": "Search problem",
-      "description": "Find in Build A Floor B",
-      "lastupdatetime": "2018-12-21T13:32:06.828+08:00"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
