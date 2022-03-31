@@ -12,22 +12,15 @@
     {
       "result": {
       "success": true,
-      "message": "Success"
+      "message": "Successful"
       },
       "landmarks": [
         {
-          "uuid": "11212.126",
+          "uuid": "41527.17",
           "userID": "5bc475664fca543da47a154b",
           "reason": "Can’t Search",
           "description": "The signal of landmark is weak",
           "lastupdatetime": "2019-06-24T15:29:46.395+08:00"
-        },
-        {
-          "uuid": "11212.127",
-          "userID": "5bc475664fca543da47a154b",
-          "reason": "Can’t Match",
-          "description": "The battery of landmark is too low",
-          "lastupdatetime": "2019-07-25T15:29:46.395+08:00"
         }
       ]
     }
