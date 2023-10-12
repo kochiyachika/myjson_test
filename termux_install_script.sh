@@ -1,7 +1,6 @@
 # remove old code for now
 rm -rf elichika && \
 # download the server code, 
-# curl -L https://github.com/kochiyachika/elichika/archive/refs/heads/master.zip -o elichika.zip && \
 curl -L https://github.com/arina999999997/elichika/archive/refs/heads/arina.zip -o elichika.zip && \
 # extract it
 unzip elichika && \
